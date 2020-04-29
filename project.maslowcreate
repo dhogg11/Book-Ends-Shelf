@@ -18,5 +18,5 @@
     "allConnectors": [],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": 2
+    "circleSegmentSize": "0.7"
 }
